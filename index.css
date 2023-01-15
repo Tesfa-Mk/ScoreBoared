@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "CursedTimerUlil-Aznm";
+    src: url("CursedTimerUlil-Aznm.ttf");
+}
 body {
     margin: 0;
 }
@@ -53,7 +57,7 @@ position: absolute;
 width: 155px;
 height: 120px;   
 color: #F94F6D;
-font-family: Cursed Timer ULiL;
+font-family: "CursedTimerUlil-Aznm";
 font-size: 90px;
 font-weight: 400;
 line-height: 127px;
